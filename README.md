@@ -4,7 +4,7 @@
 
 프레임워크 : Spring, myBatis
 
-DB : Oracl
+DB : Oracle
 
 
 프로젝트 특징 :
