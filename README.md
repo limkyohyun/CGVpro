@@ -1,7 +1,8 @@
 # CGVpro
 
-프레임워크 : Spring
-
+언어 및 라이브러리 : JAVA, Jsp, JavaScript & jQuery, CSS
+프레임워크 : Spring, myBatis
+DB : Oracl
 
 
 프로젝트 특징 :
